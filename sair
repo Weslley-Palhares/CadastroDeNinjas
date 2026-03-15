@@ -1,0 +1,17 @@
+[33mcommit 1f693f8f66d68a80e60b7947628a176ed1b327fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAula2[m[33m, [m[1;31morigin/Aula2[m[33m)[m
+Author: Weslley Palhares <weslley_palhares@outlook.com>
+Date:   Fri Mar 13 17:14:18 2026 -0300
+
+    Cria uma entidade no banco de dados apartir do NinjaModel - [AULA 3]
+
+[33mcommit 6585ad5e29ee74de6d702a964112d636123dfe05[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Weslley Palhares <weslley_palhares@outlook.com>
+Date:   Fri Mar 13 16:29:31 2026 -0300
+
+    Criado a controller - aula2
+
+[33mcommit cfb4bdadc1036d93b2807dce8b877ba4a2443da0[m
+Author: Weslley Palhares <weslley_palhares@outlook.com>
+Date:   Fri Mar 13 14:39:34 2026 -0300
+
+    primeiro commit
